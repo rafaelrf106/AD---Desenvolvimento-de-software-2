@@ -1,4 +1,4 @@
-// Rafael Rinaldi da Matta
+// Rafael Rinaldi da Matta e Cassio
 
 import React from 'react';
 import {
