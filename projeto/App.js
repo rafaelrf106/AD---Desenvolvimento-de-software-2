@@ -6,10 +6,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       <CartaoPerfil
-        nome="Rafael Rinaldi da Matta "
-        profissao="CLT"
-        cidade="Campinas, SP"
-        email="rafaelrf12@email.com"
+        nome="Mateus Redivo "
+        profissao="Professor"
+        cidade="São Paulo, SP"
+        email="mateus.redivo@email.com"
       />
     </View>
   );
